@@ -8,6 +8,8 @@ mysqlclient = "*"
 pymysql = "*"
 cryptography = "*"
 djangorestframework = "*"
+djangorestframework-xml = "*"
+djoser = "*"
 
 [dev-packages]
 
